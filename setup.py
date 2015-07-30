@@ -28,8 +28,5 @@ setup(
         'python-dateutil',
         'djangorestframework>=3.0.4',
         "six"
-    ],
-    dependency_links=[
-        'https://github.com/AbhiAgarwal/django-report-utils/archive/0.3.12.zip#egg=django-report-utils-0.3.12'
     ]
 )
