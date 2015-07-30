@@ -30,6 +30,6 @@ setup(
         "six"
     ],
     dependency_links=[
-        'https://github.com/AbhiAgarwal/django-report-utils/archive/0.3.12.zip'
+        'https://github.com/AbhiAgarwal/django-report-utils/archive/0.3.12.zip#egg=django-report-utils-0.3.12'
     ]
 )
